@@ -1,10 +1,11 @@
-### Hi there, I'm Dominik - aka [DomiGri][github] 👋
+### Hi there, I'm Domger - aka [DomiGri][github] 👋
 
-- 🔭 I’m currently working on a School project!
+- 🔭 I’m currently in University!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals:
+- 🥅 2022 Goals:
   - Contribute more to Open Source projects
   - Learn new programing Languages
+  - Keep the Readme up to date
 - ⚡ Fun fact: I love to make music
 
 </br>
